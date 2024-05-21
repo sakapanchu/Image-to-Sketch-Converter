@@ -22,3 +22,6 @@ To install OpenCV, use pip:
 "pip install opencv-python"
 
 Replace 'imagePath' with the actual path to your image file, and 'sketch,png' with the desired path to save the sketch image.
+
+![image](https://github.com/sakapanchu/Image-to-Sketch-Converter/assets/117504870/80bcf398-8ca9-4530-9f82-899ced068d50)
+
